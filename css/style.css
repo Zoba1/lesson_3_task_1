@@ -143,12 +143,13 @@ header {
     align-items: center;
     height: 110px;
     background-color: blueviolet;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding: 20px;
+ 
 }
 
 .right a {
     margin-right: 12px;
+    color: black;
 }
 
 section {
